@@ -14,5 +14,8 @@
       "PR: Underlying Tools": ":hammer: Underlying Tools"
     },
     "cacheDir": ".changelog"
+  },
+  "publicConfig": {
+    "access": "public"
   }
 }
