@@ -2,6 +2,19 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.16.5"
+    "lerna": "^3.16.5",
+    "lerna-changelog": "^0.8.2",
+    "npm": "^6.12.0"
+  },
+  "changelog": {
+    "repo": "warzd",
+    "labels": {
+      "enhancement ": ":rocket: Enhancement",
+      "breaking": ":boom: Breaking Changes",
+      "bug": ":bug: Bug Fix",
+      "documentation": ":memo: Documentation",
+      "internal ": ":house: Internal"
+    },
+    "cacheDir": ".changelog"
   }
 }

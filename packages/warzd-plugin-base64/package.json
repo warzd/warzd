@@ -12,5 +12,8 @@
   "gitHead": "e2245acd9c1fa61a554b6124006b6f4e70238810",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@warzd/warzd-plugin-upload": "^0.0.1"
   }
 }

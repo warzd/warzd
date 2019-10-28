@@ -1,0 +1,29 @@
+{
+  "name": "@warzd/warzd-plugin-upload",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "zhaocongcong <zhaocongcong@autohome.com.cn>",
+  "homepage": "https://github.com/warzd/warzd#readme",
+  "license": "ISC",
+  "main": "lib/warzd-plugin-upload.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warzd/warzd.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/warzd/warzd/issues"
+  }
+}
