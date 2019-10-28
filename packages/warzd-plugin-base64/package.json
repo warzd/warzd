@@ -1,6 +1,6 @@
 {
   "name": "@warzd/warzd-plugin-base64",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "8bbdedc7db067406a4a214c2d61afb46277d01cc"
+  "gitHead": "e2245acd9c1fa61a554b6124006b6f4e70238810",
+  "publishConfig": {
+    "access": "public"
+  }
 }

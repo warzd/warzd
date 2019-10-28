@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.3",
+  "version": "0.0.2",
   "changelog": {
     "repo": "warzd",
     "labels": {
@@ -14,8 +14,5 @@
       "PR: Underlying Tools": ":hammer: Underlying Tools"
     },
     "cacheDir": ".changelog"
-  },
-  "publicConfig": {
-    "access": "public"
   }
 }
