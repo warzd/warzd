@@ -1,6 +1,6 @@
 {
   "name": "@warzd/cli",
-  "version": "0.0.3",
+  "version": "0.0.4-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@warzd/warzd-plugin-upload": "^0.0.1"
+    "@warzd/warzd-plugin-upload": "^0.0.2-alpha.0"
   }
 }
